@@ -1,0 +1,25 @@
+{
+    "name": "Food Website",
+    "short_name": "FoodSite",
+    "description": "A delicious food website",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "scope": ".",
+    "icons": [
+      {
+        "src": "image/review_1.png",
+        "sizes": "192x190",
+        "type": "image/png"
+      },
+      {
+        "src": "image/pasta3.png",
+        "sizes": "3500x3500",
+        "type": "image/png"
+      }
+    ]
+  }
+  
+
+  
